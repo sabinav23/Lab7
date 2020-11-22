@@ -1,0 +1,12 @@
+C:\Users\Bini\Desktop\An3Sem1\Medii de programare\AutoLotModel\bin\Debug\AutoLotModel.dll.config
+C:\Users\Bini\Desktop\An3Sem1\Medii de programare\AutoLotModel\bin\Debug\AutoLotModel.dll
+C:\Users\Bini\Desktop\An3Sem1\Medii de programare\AutoLotModel\bin\Debug\AutoLotModel.pdb
+C:\Users\Bini\Desktop\An3Sem1\Medii de programare\AutoLotModel\bin\Debug\EntityFramework.dll
+C:\Users\Bini\Desktop\An3Sem1\Medii de programare\AutoLotModel\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Bini\Desktop\An3Sem1\Medii de programare\AutoLotModel\bin\Debug\EntityFramework.xml
+C:\Users\Bini\Desktop\An3Sem1\Medii de programare\AutoLotModel\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Bini\Desktop\An3Sem1\Medii de programare\AutoLotModel\obj\Debug\AutoLotModel.csprojAssemblyReference.cache
+C:\Users\Bini\Desktop\An3Sem1\Medii de programare\AutoLotModel\obj\Debug\AutoLotModel.csproj.CoreCompileInputs.cache
+C:\Users\Bini\Desktop\An3Sem1\Medii de programare\AutoLotModel\obj\Debug\AutoLotModel.csproj.CopyComplete
+C:\Users\Bini\Desktop\An3Sem1\Medii de programare\AutoLotModel\obj\Debug\AutoLotModel.dll
+C:\Users\Bini\Desktop\An3Sem1\Medii de programare\AutoLotModel\obj\Debug\AutoLotModel.pdb
